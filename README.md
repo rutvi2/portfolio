@@ -6,7 +6,7 @@ soft skills : problem solving, Analytical skills, Collaboration,Communication,Ad
 ### [Linkedin](https://www.linkedin.com/in/rutvidixitpatel/)
 
 ### Education
-- Bachelors in Business Administration|majored in Statistics|   
+- Bachelors in Business Administration with major in statistics  
 - Post Graduate Diploma in Business Analytics|data mining|Predictive Analytics|data visualization|Quantitative methods for analytics.  
 
 ### Work Experience
