@@ -6,25 +6,25 @@ soft skills : problem solving, Analytical skills, Collaboration,Communication,Ad
 ### [Linkedin](https://www.linkedin.com/in/rutvidixitpatel/)
 
 ### Education
-- Bachelors in Business Administration | majored in Statistics|   
-- Post Graduate Diploma in Business Analytics| data mining| Predictive Analytics| data visualization| Quantitative methods for analytics.  
+- Bachelors in Business Administration|majored in Statistics|   
+- Post Graduate Diploma in Business Analytics|data mining|Predictive Analytics|data visualization|Quantitative methods for analytics.  
 
 ### Work Experience
-**Business Systems Support | Universal merchandising| India**
+**Business Systems Support|Universal merchandising|India**
 - Requirements Analysis: I gather and analyze business needs while also delving into technical requirements.  
 - System Design: I collaborate on designing technical solutions that align with business objectives.  
--Integration Planning: I ensure seamless integration of new systems with existing infrastructure.  
--Data Management: I oversee data structures and systems to support business analytics.  
--Testing and Quality Assurance: I conduct thorough testing to ensure both business functionality and technical robustness.  
--User Training and Support: I provide comprehensive training, including technical aspects, to empower users.  
--Continuous Improvement: I drive enhancements to systems and processes, leveraging both business insights and technical expertise.  
+- Integration Planning: I ensure seamless integration of new systems with existing infrastructure.  
+- Data Management: I oversee data structures and systems to support business analytics.  
+- Testing and Quality Assurance: I conduct thorough testing to ensure both business functionality and technical robustness.  
+- User Training and Support: I provide comprehensive training, including technical aspects, to empower users.  
+- Continuous Improvement: I drive enhancements to systems and processes, leveraging both business insights and technical expertise.  
 
-**Front Desk Administration | IHG hotel Group | Canada**
--Problem-Solving: Demonstrated problem-solving abilities by resolving customer issues and finding creative solutions, applicable to analyzing business problems and proposing effective solutions as a business analyst.  
---Attention to Detail: Maintained meticulous attention to detail in administrative tasks such as scheduling and record-keeping, crucial for analyzing complex business processes and identifying areas for improvement.  
--Customer Focus: Prioritized customer satisfaction and relationship building at the front desk, translating into a focus on meeting business objectives and delivering value to stakeholders as a business analyst.  
--Time Management: Managed multiple tasks efficiently in a fast-paced environment, showcasing strong time management skills essential for prioritizing tasks and meeting project deadlines as a business analyst.  
--Adaptability: Adapted to changing circumstances and handled unexpected challenges with ease, demonstrating flexibility and resilience, valuable qualities for navigating evolving business requirements as a business analyst.  
+**Front Desk Administration|IHG hotel Group|Canada**  
+ -Problem-Solving: Demonstrated problem-solving abilities by resolving customer issues and finding creative solutions, applicable to analyzing business problems and proposing effective solutions as a business analyst.  
+- Attention to Detail: Maintained meticulous attention to detail in administrative tasks such as scheduling and record-keeping, crucial for analyzing complex business processes and identifying areas for improvement.  
+- Customer Focus: Prioritized customer satisfaction and relationship building at the front desk, translating into a focus on meeting business objectives and delivering value to stakeholders as a business analyst.  
+- Time Management: Managed multiple tasks efficiently in a fast-paced environment, showcasing strong time management skills essential for prioritizing tasks and meeting project deadlines as a business analyst.  
+- Adaptability: Adapted to changing circumstances and handled unexpected challenges with ease, demonstrating flexibility and resilience, valuable qualities for navigating evolving business requirements as a business analyst.  
 
 ## projects
 Stroke Prediction For Healthcare systems in Canada  
@@ -41,9 +41,7 @@ Data Visualization of online retail
 
 - Led analysis of transactional data for an online retail company spanning December 2010 to December 2011. Utilized Python for data collection, preprocessing, exploration, and storytelling.
 - Employed diverse visualization techniques to extract insights on sales trends, product performance across countries, and customer behavior. Provided actionable insights to drive decision-making, forecasting, and business planning.  
-
-Key Achievements:  
-
+**Key Achievements:**
 - Conducted end-to-end analysis, from data collection to storytelling, using Python.  
 - Uncovered sales trends and product performance insights through data visualization.  
 - Delivered actionable insights enabling informed decision-making and strategic planning.  
