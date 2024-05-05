@@ -22,6 +22,7 @@ soft skills : problem solving, Analytical skills, Collaboration,Communication,Ad
 
 **Front Desk Administration|IHG hotel Group|Canada**  
 
+
 - Problem-Solving: Demonstrated problem-solving abilities by resolving customer issues and finding creative solutions, applicable to analyzing business problems and proposing effective solutions as a business analyst.  
 - Attention to Detail: Maintained meticulous attention to detail in administrative tasks such as scheduling and record-keeping, crucial for analyzing complex business processes and identifying areas for improvement.  
 - Customer Focus: Prioritized customer satisfaction and relationship building at the front desk, translating into a focus on meeting business objectives and delivering value to stakeholders as a business analyst.  
