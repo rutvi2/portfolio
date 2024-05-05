@@ -1,3 +1,4 @@
 # add the following to _config.yml file
-title: YOUR NAME
-theme: jeykll-theme-minima
+title: Rutvi Patel
+theme: jekyll-theme-modernist
+
